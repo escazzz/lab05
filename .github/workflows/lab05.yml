@@ -3,7 +3,7 @@ name: Banking
 on:
   push:
     branches: 
-    - master
+    - main
 
 jobs:
   Build:
